@@ -1,2 +1,3 @@
 srver=ON=srver 
 =[10314]=
+https://raw.githubusercontent.com/1RIFIN-70/CONTROL-ROM/main/ON-OF.txt
